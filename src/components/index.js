@@ -50,7 +50,7 @@ const ListRecord = () => {
                 <tr>
                   <th scope="col">No.</th>
                   <th scope="col">제목</th>
-                  <th scope="col">이메일</th>
+                  {/* <th scope="col">이메일</th> */}
                    <th scope="col">작성자</th>
                   <th scope="col"></th> 
                   {/* <th scope="col">Action</th> */}
@@ -63,7 +63,7 @@ const ListRecord = () => {
                       <th scope="row">{index + 1}</th>
                       <td>{data[id].fullName}</td>
                        {/* <td>{data[id].mobile}</td> */}
-                      <td>{data[id].email}</td> 
+                      {/* <td>{data[id].email}</td>  */}
                        <td>{data[id].address}</td> 
                       <td>
                         <Link to={`/update/${id}`}>
