@@ -30,7 +30,7 @@ const ListRecord = () => {
   // }, []);
 
   const onDelete = (id) => {
-    if (window.confirm("Are you sure you want to delete this record ?")) {
+    if (window.confirm("게시글을 삭제하시겠습니까?")) {
       dispatch (deleteContactsStart(id))
       dispatch (getContactsStart())
 
@@ -42,16 +42,16 @@ const ListRecord = () => {
       <div className="container-fluid mt-5">
         <div className="row">
           <div className="col-lg-12">
-            <div class="jumbotron">
+            {/* <div class="jumbotron"> */}
               <h1 class="display-2"> Dstory </h1>
-            </div>
+            {/* </div> */}
             <table className="table table-bordered table-striped">
               <thead className="thead-dark">
                 <tr>
                   <th scope="col">No.</th>
                   <th scope="col">제목</th>
                   <th scope="col">이메일</th>
-                   <th scope="col">성함</th>
+                   <th scope="col">작성자</th>
                   <th scope="col"></th> 
                   {/* <th scope="col">Action</th> */}
                 </tr>

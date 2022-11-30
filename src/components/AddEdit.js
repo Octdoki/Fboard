@@ -98,7 +98,7 @@ const AddEdit = () => {
             </div>   
             <div className="form-group">
               <div className="form-group">
-              <label className="bmd-label-floating">성함</label>
+              <label className="bmd-label-floating">작성자</label>
               <input
                 type="text"
                 className="form-control"

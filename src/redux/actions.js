@@ -28,9 +28,9 @@ export const deleteContactsFail = (error) => ({
     payload : error,
 })
 
-export const addContactsStart = (contacts) => ({
+export const addContactsStart = (contact) => ({
     type : types.ADD_CONTACTS_START,
-    payload : contacts,
+    payload : contact,
 })
 
 export const addContactsSuccess = () => ({

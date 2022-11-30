@@ -41,7 +41,7 @@ export function* onAddContactAsync({payload : contact}) {
 
 export function* onEditContactAsync({payload : { id, initialState: contact}}) {
     try{
-        yield firebaseDb.child(`contacts/${id}`).push(contact)
+        yield firebaseDb.child(`contacts/${id}`).set(contact)
         yield put(editContactsSuccess())   
     } catch(error){
         yield put(editContactsFail())

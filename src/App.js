@@ -18,7 +18,7 @@ function App() {
           <Route exact path="/update/:id" component={AddEdit} />
           <Route exact path="/about" component={About} />
           <Route path="*" component={Error} />
-        </Switch>remote add origin 
+        </Switch>
       
       {/* </div> */}
     </div>

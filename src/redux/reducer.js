@@ -39,7 +39,7 @@ const contactReducer = (state = initialState, action) =>{
             return{
                 ...state,
                 error : action.payload,
-                loading : true,
+                loading : false,
                 }
         
             default:

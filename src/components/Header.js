@@ -15,9 +15,9 @@ const Header = () => {
         <NavLink to="/add" className="btn" style={{ color: "white" }}>
           작성하기
         </NavLink>
-        <NavLink to="/about" className="btn" style={{ color: "white" }}>
+        {/* <NavLink to="/about" className="btn" style={{ color: "white" }}>
           About
-        </NavLink>
+        </NavLink> */}
       </nav>
     </div>
   );

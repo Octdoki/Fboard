@@ -69,7 +69,7 @@ const Contacts = () => {
           <table className="table table-borderless table-stripped">
             <thead className="thread-light">
               <tr>
-                <th>성명</th>
+                <th>작성자</th>
                 <th>연락처</th>
                 <th>이메일</th>
                 <th>주소</th>

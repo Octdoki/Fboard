@@ -21,7 +21,7 @@ const View = () => {
               <div class="card-body">
                 {/* <p class="card-text">성함: {data[id].fullName}</p> */}  
                <p class="card-text">이메일: {data[id].email}</p>
-                <p class="card-text">성함: {data[id].address}</p>
+                <p class="card-text">작성자: {data[id].address}</p>
                 <p class="card-text">내용: {data[id].mobile}</p>
             
                 <Link to="/">
