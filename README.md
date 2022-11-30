@@ -14,7 +14,7 @@
 
 #### 사용예시
 
-demo page : https://octdoki.github.io/firebase-board/
+demo page : https://octdoki.github.io/Fboard/
 클릭한 잏 메인 버튼을 누륵 
 
 <img width="945" alt="Screenshot 2022-11-27 at 3 32 29 PM" src="https://user-images.githubusercontent.com/76845650/204122569-7124cb61-85a7-411d-b45c-1b12b0291dcc.png">
