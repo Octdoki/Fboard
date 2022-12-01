@@ -50,7 +50,8 @@
 
 demo page : https://octdoki.github.io/Fboard/
 
-![Screen_Recording_2022-12-01_at_5_37_01_PM_AdobeExpress](https://user-images.githubusercontent.com/76845650/205104053-1f667806-f8aa-4802-b883-cbed4372c5c3.gif)
+
+![ezgif-1-66daa16ae4](https://user-images.githubusercontent.com/76845650/205106862-4ea27de9-bd13-4168-888c-2b332b326b81.gif)
 
 
 
