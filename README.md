@@ -50,7 +50,8 @@
 
 demo page : https://octdoki.github.io/Fboard/
 
-![Screen_Recording_2022-12-01_at_5_37_01_PM_AdobeExpress](https://user-images.githubusercontent.com/76845650/205010347-b4cd45d4-8188-4d50-a834-aab79a5a8031.gif)
+![Screen-Recording-2022-12-01-at-5 37 01-PM](https://user-images.githubusercontent.com/76845650/205037244-fbd2096a-1b9d-4e76-b680-71318fd5d5be.gif)
+
 
 [메인] 버튼 클릭 후 [작성하기] 버튼을 클릭하여 자유럽게 글을 작성할 수 있습니다.
 그리고 옆으 버튼들을 이용항 수정,삭제,상세보기 등이 가능합니다
