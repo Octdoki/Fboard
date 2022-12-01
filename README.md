@@ -50,8 +50,9 @@
 
 demo page : https://octdoki.github.io/Fboard/
 
+![ezgif-1-10f1e68c13](https://user-images.githubusercontent.com/76845650/205107997-58066c81-3e4d-4a81-89e9-9910536f062c.gif)
 
-![ezgif-1-66daa16ae4](https://user-images.githubusercontent.com/76845650/205106862-4ea27de9-bd13-4168-888c-2b332b326b81.gif)
+
 
 
 
@@ -80,7 +81,6 @@ demo page : https://octdoki.github.io/Fboard/
 * redux-saga
 * redux-thunk
 
- #### Prerequisite
  
  
 
