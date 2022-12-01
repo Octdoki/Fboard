@@ -17,7 +17,6 @@
 demo page : https://octdoki.github.io/Fboard/
 클릭한 잏 메인 버튼을 누륵 
 
-<img width="945" alt="Screenshot 2022-11-27 at 3 32 29 PM" src="https://user-images.githubusercontent.com/76845650/204122569-7124cb61-85a7-411d-b45c-1b12b0291dcc.png">
 
 
 
@@ -57,8 +56,12 @@ demo page : https://octdoki.github.io/Fboard/
 
  #### 사용예시
  
+![Screen Recording 2022-12-01 at 5 37 01 PM](https://user-images.githubusercontent.com/76845650/205007865-b178111a-f4a5-46c3-b783-57b7c0341f91.gif)
 
-<img width="945" alt="Screenshot 2022-11-27 at 3 32 29 PM" src="https://user-images.githubusercontent.com/76845650/204122569-7124cb61-85a7-411d-b45c-1b12b0291dcc.png">
+
+메이 화면 클릭
+
+
 
  
  
