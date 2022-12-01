@@ -10,19 +10,6 @@
 그러면 화면에 제목고 작성자와 작성자 이메일이 보이느 것을 확인할 ㅅ 있습니다.
 그리 옆의 버튼들으 클릭하 수정,삭제, 내용 상세보기가 가능합니다.
 
-
-
-#### 사용예시
-
-demo page : https://octdoki.github.io/Fboard/
-클릭한 잏 메인 버튼을 누륵 
-
-
-
-
-
-
-
 #### 디렉터리 구조
 
      ┣ 📂src
@@ -56,7 +43,12 @@ demo page : https://octdoki.github.io/Fboard/
 
  #### 사용예시
  
-![Screen Recording 2022-12-01 at 5 37 01 PM](https://user-images.githubusercontent.com/76845650/205007865-b178111a-f4a5-46c3-b783-57b7c0341f91.gif)
+
+demo page : https://octdoki.github.io/Fboard/
+
+![Screen Recording 2022-12-01 at 5 37 01 PM](https://user-images.githubusercontent.com/76845650/205010050-7f3c8dc5-cd02-48c5-9e57-e1ad670662c4.gif)
+
+
 
 
 메이 화면 클릭
