@@ -64,9 +64,6 @@
   * 1.Git
   * 2.NodeJS / NPM
 
-
-
-
  #### Technologies
  * antd
  * bootstrap 
