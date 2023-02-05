@@ -60,6 +60,10 @@
 
 
   #### Enviorment
+  
+  * 1.Git
+  * 2.NodeJS / NPM
+
 
 
 
